@@ -1,0 +1,12 @@
+[submodule "ECSE316A1"]
+	path = ECSE316A1
+	url = https://github.com/JeanKa25/ECSE316A1.git
+[submodule "ECSE316A2"]
+	path = ECSE316A2
+	url = https://github.com/jOBT0/ECSE316A2.git
+[submodule "310A"]
+	path = 310A
+	url = https://github.com/madebysimone/310A.git
+[submodule "COMP310-A1"]
+	path = COMP310-A1
+	url = https://github.com/jOBT0/COMP310-A1.git

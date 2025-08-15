@@ -38,7 +38,7 @@ control of system alarm actions.
 ### [Dive Trip Reservation Application (Java, Umple) PROJECT](https://github.com/McGill-ECSE223-Winter2022/group-project--12)
 
 # Connect with me
-- [Linkedin](www.linkedin.com/in/jonathan-batanian-b9155520a)
+- [Linkedin](https://www.linkedin.com/in/jonathan-batanian-b9155520a/)
 - Email 📩: jonathan.batanian@mail.mcgill.ca
 
 

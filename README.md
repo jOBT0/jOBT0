@@ -10,7 +10,7 @@ While I'm comfortable across the stack, I have a particular interest in backend 
 - Tools: ModelSim, Git, GUI, PostgreSQL, SQL, Docker, Quartus, Scene Builder, Excel, Umple, Gradle, Cucumber, Bootstrap, HTML, CSS Logisim-evolution, postman, MongoDB, PgAdmin
 - Numerical Software: LabView, MATLAB, Mathematica
 
-## 💼 Projects And Experience
+# 💼 Projects And Experience
 ### [Dormakaba: Software Developer .Net Full Stack INTERNSHIP](https://mcgill-my.sharepoint.com/:p:/r/personal/jonathan_batanian_mail_mcgill_ca/Documents/Presentation-EndOfInternship.pptx?d=wda87be3b4da144e483795425aa0fb92b&csf=1&web=1&e=zbnmkK)
 - Fixed complex bugs across microservices by reproducing issues, analyzing code, and delivering verified 
 solutions.

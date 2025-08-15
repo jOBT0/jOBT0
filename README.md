@@ -11,13 +11,31 @@ While I'm comfortable across the stack, I have a particular interest in backend 
 - Numerical Software: LabView, MATLAB, Mathematica
 
 ## 💼 Projects And Experience
-- [Dormakaba: Software Developer .Net Full Stack INTERNSHIP](https://mcgill-my.sharepoint.com/:p:/r/personal/jonathan_batanian_mail_mcgill_ca/Documents/Presentation-EndOfInternship.pptx?d=wda87be3b4da144e483795425aa0fb92b&csf=1&web=1&e=zbnmkK)
-- Pratt & Whitney Canada: Digital Engine Services - Ground System Engineer INTERNSHIP
-- MCDI Security Products Inc.: Programmer (Web Development) INTERNSHIP
-### [Wishlist Management(Web Application)](https://github.com/estefaniavazquez/Listful)
-### [Filesystem Utilities and Optimization (C, Python, Docker)](https://github.com/madebysimone/310A/tree/main/a2)
-### [Efficient Memory Management Simulation (C, Python, Docker)](https://github.com/madebysimone/310A/tree/main/a3)
-### [Dive Trip Reservation Application (Java, Umple)](https://github.com/McGill-ECSE223-Winter2022/group-project--12)
+### [Dormakaba: Software Developer .Net Full Stack INTERNSHIP](https://mcgill-my.sharepoint.com/:p:/r/personal/jonathan_batanian_mail_mcgill_ca/Documents/Presentation-EndOfInternship.pptx?d=wda87be3b4da144e483795425aa0fb92b&csf=1&web=1&e=zbnmkK)
+- Fixed complex bugs across microservices by reproducing issues, analyzing code, and delivering verified 
+solutions.
+- Collaborated on feature development and defect tracking through Jira, Git pull requests, and peer code 
+reviews.
+- Implemented a new REST API feature by modifying four interconnected services to support UID retrieval.
+### Pratt & Whitney Canada: Digital Engine Services - Ground System Engineer INTERNSHIP
+- Enhanced the GBS/ADS setup file generator, improving efficiency and generating comprehensive 
+documentation for future use
+- Developed a Fleet Data Mismatch Detector script and associated dashboards, improving real-time fleet 
+monitoring and data accuracy.
+- Conducted in-service fleet data quality assessments to ensure integrity and consistency across multiple 
+datasets.
+### MCDI Security Products Inc.: Programmer (Web Development) INTERNSHIP
+- Participated in building the user interface of the company's alarm system products application for them to 
+customize the application to their specific needs.
+- Coded a user-friendly client-side web interface using CSS, HTML, C#, JavaScript, and Bootstrap.
+- Enabled users access to data and used PostgreSQL for database management to allow them to take 
+control of system alarm actions.
+
+
+### [Wishlist Management(Web Application) PROJECT](https://github.com/estefaniavazquez/Listful)
+### [Filesystem Utilities and Optimization (C, Python, Docker) PROJECT](https://github.com/madebysimone/310A/tree/main/a2)
+### [Efficient Memory Management Simulation (C, Python, Docker) PROJECT](https://github.com/madebysimone/310A/tree/main/a3)
+### [Dive Trip Reservation Application (Java, Umple) PROJECT](https://github.com/McGill-ECSE223-Winter2022/group-project--12)
 
 # Connect with me
 - [Linkedin](www.linkedin.com/in/jonathan-batanian-b9155520a)

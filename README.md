@@ -15,7 +15,8 @@ While I'm comfortable across the stack, I have a particular interest in backend 
 - Pratt & Whitney Canada: Digital Engine Services - Ground System Engineer INTERNSHIP
 - MCDI Security Products Inc.: Programmer (Web Development) INTERNSHIP
 ### [Wishlist Management(Web Application)](https://github.com/estefaniavazquez/Listful)
-### [Filesystem Utilities and Optimization (C, Python, Docker)](https://github.com/madebysimone/310A)
+### [Filesystem Utilities and Optimization (C, Python, Docker)](https://github.com/madebysimone/310A/tree/main/a2)
+### [Efficient Memory Management Simulation (C, Python, Docker)](https://github.com/madebysimone/310A/tree/main/a3)
 ### [Dive Trip Reservation Application (Java, Umple)](https://github.com/McGill-ECSE223-Winter2022/group-project--12)
 
 # Connect with me
